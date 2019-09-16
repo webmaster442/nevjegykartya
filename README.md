@@ -12,7 +12,7 @@
 
 ## Licenc
 
-**Nyomtatott áramkör és kapcsolási rajz**: Creative Commons Nevezd meg! - Így add tovább! 3.0
+**Nyomtatott áramkör és kapcsolási rajz**: Creative Commons Nevezd meg! - Így add tovább! 4.0
 https://creativecommons.org/licenses/by-sa/4.0/deed.hu
 
 **Firmware:** GPL http://gnu.hu/gpl.html
